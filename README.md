@@ -27,17 +27,3 @@ Trained on a phishing email dataset with:
 - Fine-tuned BERT base uncased
 - 1500 samples, 5 epochs
 
-## How to run locally
-pip install -r requirements.txt
-python app.py
-```
-
----
-
-## Step 5 — Enable GitHub Pages (bonus!)
-- Go to repo **Settings** → **Pages**
-- Source: **main branch**
-- Click **Save**
-- Your landing page will be live at:
-```
-https://danuli.github.io/neuro-mail-ai
